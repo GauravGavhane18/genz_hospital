@@ -8,6 +8,11 @@ An AI-powered medical research engine that integrates **PubMed** with a custom *
 - **Paper Analyzer**: Extracts methodology and research gaps.
 - **Citation Graph**: Visualizes citation networks.
 
+## Documentation
+- [System Architecture](./docs/architecture.md)
+- [ScaleDown™ Specification](./docs/scaledown_spec.md)
+- [API Reference](./docs/api_reference.md)
+
 ## Getting Started
 
 ### Prerequisites
