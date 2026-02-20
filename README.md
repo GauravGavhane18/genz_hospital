@@ -1,7 +1,6 @@
-
 # Medical Research Assistant with BioGPT & ScaleDown
 
-This project is a medical literature search assistant that integrates PubMed, uses BioGPT-based semantic search, and implements "ScaleDown" for paper compression.
+An AI-powered medical research engine that integrates **PubMed** with a custom **ScaleDown** algorithm to compress dense literature by 70% while preserving critical findings. The platform features a premium **glassmorphism dashboard** for real-time methodology extraction, research gap identification, and interactive citation network visualization. Designed for high-efficiency analysis, it leverages **BioGPT-inspired scoring** to reduce API costs and cognitive load by enabling simultaneous multi-paper synthesis.
 
 ## Features
 - **PubMed Integration**: Search real medical papers.
